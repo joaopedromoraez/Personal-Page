@@ -1,0 +1,12 @@
+body {
+    background-color:#fafafa;
+    font-family: 'Roboto', sans-serif;
+  }
+
+h1 {
+  text-align: center;
+}
+
+.card-reveal{
+  font-size: 20px;
+}
